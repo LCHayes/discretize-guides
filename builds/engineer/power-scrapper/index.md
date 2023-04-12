@@ -23,7 +23,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-04-12T21:23:36.629Z "
+date: "2023-04-12T22:14:35.581Z "
 ---
 
 The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
@@ -84,7 +84,7 @@ If you do not need to provide <Boon name="Quickness"/>, you can play the followi
 | <Skill name="throwmine" size="big" disableText/>        | Good dps with <Skill name="minefield" /> and allows you to remove boons on<Instability name="No Pain, No Gain"/>. In experienced groups you can swap out a gyro for extra burst damage, if you can maintain <Boon name="Quickness"/>. |
 | <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>. Can also be used as an extra source of <Boon name="Quickness"/>                                                                                                                             |
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
-| <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to beefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
+| <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
 | <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                                                                                          |
 | <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage.                                                                                                                                                                         |
 | <Skill name="Bulwark Gyro" size="big" disableText/>     | Used to precast <Skill name="Defense Field"/> to profit from <Trait name="Object in Motion"/>                                                                                                                                         |
